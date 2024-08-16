@@ -1,6 +1,6 @@
-Plants vs Zombies Game
+Plants vs Zombies Game:
 Overview
-This is a Plants vs Zombies game developed by Muhammad Daniyal and [Your Friend's Name]. The game features three levels with increasing difficulty, where players can unlock new plants as they progress. The objective is to strategically place plants to fend off waves of zombies before they reach your house.
+This is a Plants vs Zombies game developed by Muhammad Daniyal and Abdullah Siddique. The game features three levels with increasing difficulty, where players can unlock new plants as they progress. The objective is to strategically place plants to fend off waves of zombies before they reach your house.
 
 Game Features
 Three Levels of Increasing Difficulty:
