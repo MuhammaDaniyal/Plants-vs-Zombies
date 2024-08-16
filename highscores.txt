@@ -1,0 +1,5 @@
+daniyal 500
+Ali 60
+Abdullah 40
+
+
